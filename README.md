@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Mariana dos Santos 
 
-Me chamo Mariana dos Santos, tenho 20 anos e sou natural de Santa Catarinal. Atualmente, estou cursando Ciência da Computação na UDESC.
+Me chamo Mariana dos Santos, tenho 20 anos e sou natural de Santa Catarinal. Atualmente, estou cursando Ciência da Computação na UDESC. Atualmente estou estudando um pouco de c++ e aprendendo a desenvolver na plataforma Unity.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
