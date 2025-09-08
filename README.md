@@ -74,4 +74,11 @@ Me chamo Mariana dos Santos, tenho 21 anos e sou natural de Santa Catarinal. Atu
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
-</picture>          
+</picture>     
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+/>
