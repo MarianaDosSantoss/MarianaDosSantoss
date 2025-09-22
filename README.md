@@ -10,104 +10,48 @@
 - 🧠 **Interesses**:
   - Desenvolvimento Web
   - Desenvolvimento em Java
-  - Áreas relacionadas a banco de dados, análise de dados e Python.
-- 💬 Gosto de compartilhar conhecimento e criar soluções com impacto positivo.
+  - Áreas relacionadas a banco de dados, análise de dados e Python
+- 💬 Gosto de compartilhar conhecimento e criar soluções com impacto positivo
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Linguagens
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" style="margin-right: 10px;" />
+</div>
 
 #### Ferramentas & Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
+</div>
 
-<img 
-    align="left" 
-    alt="Github"
-    title="Github" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+---
+### 📌 Projetos em destaque
 
+- (Seção ainda em construção)
 
-            
+### 👨🏻‍🎓 Projetos da minha graduação
 
+- (Seção ainda em construção)
 
+---
+### 📊 Estatísticas GitHub
 
-          
+### 📊 Estatísticas GitHub
 
-     
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
-/>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5) |
+| --- | --- |
 
 
-<picture align="left">
+---
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
-</picture>     
-
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
+</picture>
