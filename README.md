@@ -42,14 +42,21 @@
 ---
 ### 📊 Estatísticas GitHub
 
-### 📊 Estatísticas GitHub
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5) |
-| --- | --- |
-
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 100px;">
+  <img 
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+  />
+</div>
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
