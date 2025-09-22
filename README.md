@@ -2,6 +2,12 @@
 
 <p align="center"> 🎓 Estudante de Ciência da Computação </p>
 
+<p align="center">
+  <b>Estudante de Tecnologia</b>
+  <br>
+  🎓 <b>Ciência da Computação - UDESC CCT </b>
+</p>
+
 Me chamo Mariana dos Santos, tenho 21 anos e sou natural de Santa Catarinal. Atualmente, estou cursando Ciência da Computação na UDESC.
 ### 🤖 Linguagens e Tecnologias
 <img 
