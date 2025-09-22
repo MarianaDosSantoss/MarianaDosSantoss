@@ -1,4 +1,6 @@
-# 👩🏻‍💻 Mariana dos Santos 
+<h1 align="center"> 👋 Olá, eu sou a Mariana dos Santos! </h1>
+
+<p align="center"> 🎓 Estudante de Ciência da Computação </p>
 
 Me chamo Mariana dos Santos, tenho 21 anos e sou natural de Santa Catarinal. Atualmente, estou cursando Ciência da Computação na UDESC.
 ### 🤖 Linguagens e Tecnologias
