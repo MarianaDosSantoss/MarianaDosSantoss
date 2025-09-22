@@ -2,11 +2,24 @@
 
 <p align="center"> 🎓 Estudante de Ciência da Computação </p>
 
-<p align="center">
-  <b>Estudante de Tecnologia</b>
-  <br>
-  🎓 <b>Ciência da Computação - UDESC CCT </b>
-</p>
+---
+
+### 📚 Sobre mim
+
+- 🎓 Estudando Ciência da Computação na Universidade do Estado de Santa Catarina - UDESC
+- ♿ Integrante do projeto de extensão **Assistiva** (acessibilidade e inclusão)
+- 🧠 **Interesses**:
+  - Desenvolvimento Web
+  - Desenvolvimento em Java
+  - Áreas relacionadas a banco de dados, análise de dados e Python.
+- 💬 Gosto de compartilhar conhecimento e criar soluções com impacto positivo.
+
+- 
+- Desenvolvimento web (HTML, CSS, JavaScript)
+  - Programação em Python & Java
+  - Tecnologia assistiva e acessibilidade
+  - Gamificação, jogos educativos e inovação social
+  - Design, comunicação digital & experiências interativas
 
 Me chamo Mariana dos Santos, tenho 21 anos e sou natural de Santa Catarinal. Atualmente, estou cursando Ciência da Computação na UDESC.
 ### 🤖 Linguagens e Tecnologias
