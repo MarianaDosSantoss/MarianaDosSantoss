@@ -70,4 +70,4 @@
 </picture>
 
 ---
-<p align="center">⚒️ Perfil em constante construção. ⚒️</p>
+<p align="center">🚧 Perfil em constante construção.</p>
