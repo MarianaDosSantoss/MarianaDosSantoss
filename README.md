@@ -33,7 +33,7 @@
 ---
 ### 📌 Projetos em destaque
 
-- [**Sopa de Letrinhas**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) — Jogo educacional interativo para promover o letramento infantil.
+- [**Sopa de Letrinhas**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) - Jogo educacional interativo para promover o letramento infantil.
 
 ### 👨🏻‍🎓 Projetos da minha graduação
 
