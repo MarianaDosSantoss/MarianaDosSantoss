@@ -2,6 +2,7 @@
 
 <p align="center"> 🎓 Estudante de Ciência da Computação | Foco em Dados & Backend </p>
 
+
 ---
 ### 📚 Sobre mim
 
@@ -14,22 +15,46 @@
   - Arquitetura e engenharia de dados 
 - 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
 
+
+---
+### 💼 Experiência Profissional
+
+**Estagiária em Engenharia de Aplicação e Vendas | Nidec Global Appliance**
+<br><br>
+Atuação voltada para o suporte técnico e a otimização de processos internos, com foco em inteligência de dados e eficiência operacional. Principais frentes de atuação:
+
+- **Processos de ETL e Integração de Dados (Forecast):** Desenvolvimento de rotinas de Extração, Transformação e Carga (ETL) para organizar os dados de previsão da equipe.
+- **Análise de Custos e Margens:** Estruturação de projeto focado em análise financeira e de rentabilidade.
+- **Tecnologias e Ferramentas:** Utilização de **Python** (via Google Colab) para manipulação e limpeza de dados, construção de **Queries no Google Sheets** para relatórios, além de versionamento de código.
+
+  
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
-#### Linguagens
+#### 💾 Dados & Backend
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" style="margin-right: 10px;" />
 </div>
 
-#### Ferramentas & Frameworks
+#### 🌐 Front-end
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" style="margin-right: 10px;" />
 </div>
+
+#### ⚙️ Ferramentas, Ambientes & Banco de Dados
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL / SQL" alt="PostgreSQL" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" alt="Google Colab" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" title="Google Sheets" alt="Google Sheets" width="40" style="margin-right: 10px;" />
+</div>
+
 
 ---
 ### 📌 Projetos em destaque
@@ -39,6 +64,7 @@
 ### 👨🏻‍🎓 Projetos da minha graduação
 
 - (Seção ainda em construção)
+
 
 ---
 ### 📊 Estatísticas GitHub
@@ -57,11 +83,13 @@
   />
 </div>
 
+
 ---
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/mariana-dos-santos-6473ba356/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=github&logoColor=white)](https://github.com/MarianaDosSantoss)
+
 
 ---
 <picture>
@@ -69,6 +97,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 <p align="center">🚧 Perfil em constante construção.</p>
