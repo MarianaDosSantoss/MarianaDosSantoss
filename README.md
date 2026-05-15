@@ -1,17 +1,18 @@
 <h1 align="center"> 👋 Olá, eu sou a Mariana dos Santos! </h1>
 
-<p align="center"> 🎓 Estudante de Ciência da Computação </p>
+<p align="center"> 🎓 Estudante de Ciência da Computação | Foco em Dados & Backend </p>
 
 ---
 ### 📚 Sobre mim
 
 - 🎓 Estudando Ciência da Computação na Universidade do Estado de Santa Catarina - **UDESC**
+- 💼 Estagiária na **Nidec Global Appliance** (Engenharia de Aplicação e Vendas)
 - ♿ Integrante do projeto de extensão **Assistiva** (acessibilidade e inclusão)
 - 🧠 **Interesses**:
-  - Desenvolvimento Web
-  - Desenvolvimento em Java
-  - Áreas relacionadas a banco de dados, análise de dados e Python
-- 💬 Gosto de compartilhar conhecimento e criar soluções com impacto positivo
+  - Análise de Dados e Banco de Dados (SQL)
+  - Desenvolvimento Backend (Java, Python)
+  - Arquitetura e engenharia de dados 
+- 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
