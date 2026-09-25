@@ -4,11 +4,11 @@
 
 
 ---
-### 📚 Sobre mim
+### Sobre mim
 
 - 🎓 Estudando Ciência da Computação na Universidade do Estado de Santa Catarina - **UDESC**
-- 💼 Estagiária na **Nidec Global Appliance** (Engenharia de Aplicação e Vendas)
-- ♿ Integrante do projeto de extensão **Assistiva** (acessibilidade e inclusão)
+- 💼 Estagiária na **Nidec Global Appliance** (S&OP - Planejamento de Vendas e Operações)
+- ♿ Integrante do projeto de extensão **Assistiva** (Acessibilidade e Inclusão)
 - 🧠 **Interesses**:
   - Análise de Dados e Banco de Dados (SQL)
   - Desenvolvimento Backend (Java, Python)
@@ -16,32 +16,40 @@
 - 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
 
 ---
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
-#### 💾 Dados & Backend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" style="margin-right: 10px;" />
-</div>
+#### Competências Técnicas
+- 📊 Análise de Dados e Estruturação de Forecast
+- 🐍 Python (Pandas e NumPy)
+- 🔄 Processos de ETL e Integração de Dados
+- 🗄️ Consultas SQL e Modelagem Relacional
 
-#### 🌐 Front-end
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" style="margin-right: 10px;" />
-</div>
+#### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### ⚙️ Ferramentas, Ambientes & Banco de Dados
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL / SQL" alt="PostgreSQL" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" alt="Google Colab" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" title="Google Sheets" alt="Google Sheets" width="40" style="margin-right: 10px;" />
-</div>
+#### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#### Banco de Dados & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+#### Produtividade & BI
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
+
+#### Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ### 📌 Projetos em destaque
