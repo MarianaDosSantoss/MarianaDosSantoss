@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Olá, eu sou a Mariana dos Santos! </h1>
 
-<p align="center"> 🎓 Estudante de Ciência da Computação | Dados & Backend </p>
+<p align="center"> Estudante de Ciência da Computação | Dados & Backend </p>
 
 
 ---
