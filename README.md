@@ -15,19 +15,6 @@
   - Arquitetura e engenharia de dados 
 - 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
 
-
----
-### 💼 Experiência Profissional
-
-**Estagiária em Engenharia de Aplicação e Vendas | Nidec Global Appliance**
-<br><br>
-Atuação voltada para o suporte técnico e a otimização de processos internos, com foco em inteligência de dados e eficiência operacional. Principais frentes de atuação:
-
-- **Processos de ETL e Integração de Dados (Forecast):** Desenvolvimento de rotinas de Extração, Transformação e Carga (ETL) para organizar os dados de previsão da equipe.
-- **Análise de Custos e Margens:** Estruturação de projeto focado em análise financeira e de rentabilidade.
-- **Tecnologias e Ferramentas:** Utilização de **Python** (via Google Colab) para manipulação e limpeza de dados, construção de **Queries no Google Sheets** para relatórios, além de versionamento de código.
-
-  
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
