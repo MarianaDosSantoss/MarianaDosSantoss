@@ -1,33 +1,33 @@
-<h1 align="center"> 👋 Olá, eu sou a Mariana dos Santos! </h1>
+<h1 align="center"> 👋 Hi, I'm Mariana dos Santos! </h1>
 
-<p align="center"> Estudante de Ciência da Computação | Dados & Backend </p>
-
-
-
----
-### Sobre mim
-
-- 🎓 Estudando Ciência da Computação na Universidade do Estado de Santa Catarina - **UDESC**
-- 💼 Estagiária na **Nidec Global Appliance** (S&OP - Planejamento de Vendas e Operações)
-- ♿ Integrante do projeto de extensão **Assistiva** (Acessibilidade e Inclusão)
-- 🧠 **Interesses**:
-  - Análise de Dados e Banco de Dados (SQL)
-  - Desenvolvimento Backend (Java, Python)
-  - Arquitetura e engenharia de dados 
-- 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
+<p align="center"> Computer Science Student | Data & Backend </p>
 
 
 
 ---
-### Tecnologias e Ferramentas
+### About Me
 
-#### Competências Técnicas
-- 📊 Análise de Dados e Estruturação de Forecast
+- 🎓 Studying Computer Science at Santa Catarina State University - **UDESC**
+- 💼 Intern at **Nidec Global Appliance** (S&OP – Sales and Operations Planning)
+- ♿ Member of the **Assistiva** (Accessibility and Inclusion) outreach project
+- 🧠 **Interests**:
+  - Data Analysis and Databases (SQL)
+  - Backend Development (Java, Python)
+  - Data architecture and engineering
+- 💬 Curiosity to innovate, organization to execute, and excellence to deliver
+
+
+
+---
+### Technologies and Tools
+
+#### Technical Skills
+- 📊 Data Analysis and Forecast Structuring
 - 🐍 Python (Pandas e NumPy)
-- 🔄 Processos de ETL e Integração de Dados
-- 🗄️ Consultas SQL e Modelagem Relacional
+- 🔄 ETL and Data Integration Processes
+- 🗄️ SQL Queries and Relational Modeling
 
-#### Linguagens de Programação
+#### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -40,35 +40,35 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Banco de Dados & Cloud
+#### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-#### Produtividade & BI
+#### Productivity & BI
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
-#### Versionamento
+#### Versioning
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 ---
-### Projetos em destaque
+### Featured Projects
 
-- [**Sopa de Letrinhas**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) - Jogo educacional interativo para promover o letramento infantil.
+- [**Alphabet Soup**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) - Interactive educational game to promote childhood literacy.
 
-### Projetos da minha graduação
+### Undergraduate projects
 
-- (Seção ainda em construção)
+- (Section still under construction)
 
 
 
 ---
-### Estatísticas GitHub
+### GitHub Statistics
 
 <div align="center">
   <img 
@@ -87,7 +87,7 @@
 
 
 ---
-### Conecte-se comigo
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana-dos-santos-6473ba356/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarianaDosSantoss)
@@ -106,4 +106,4 @@
 
 
 ---
-<p align="center">Perfil em constante construção.</p>
+<p align="center">Profile constantly under construction</p>
