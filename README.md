@@ -52,38 +52,37 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 📌 Projetos em destaque
+### Projetos em destaque
 
-- 🧩 [**Sopa de Letrinhas**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) - Jogo educacional interativo para promover o letramento infantil.
+- [**Sopa de Letrinhas**](https://github.com/MarianaDosSantoss/Projeto-Assistiva) - Jogo educacional interativo para promover o letramento infantil.
 
-### 👨🏻‍🎓 Projetos da minha graduação
+### Projetos da minha graduação
 
 - (Seção ainda em construção)
 
-
 ---
-### 📊 Estatísticas GitHub
+### Estatísticas GitHub
 
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 100px;">
+<div align="center">
   <img 
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=MarianaDosSantoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaDosSantoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </div>
 
 
 ---
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/mariana-dos-santos-6473ba356/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=github&logoColor=white)](https://github.com/MarianaDosSantoss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana-dos-santos-6473ba356/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarianaDosSantoss)
 
 
 ---
