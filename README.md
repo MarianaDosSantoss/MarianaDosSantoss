@@ -3,6 +3,7 @@
 <p align="center"> Estudante de Ciência da Computação | Dados & Backend </p>
 
 
+
 ---
 ### Sobre mim
 
@@ -14,6 +15,8 @@
   - Desenvolvimento Backend (Java, Python)
   - Arquitetura e engenharia de dados 
 - 💬 Curiosidade para inovar, organização para realizar e excelência para entregar
+
+
 
 ---
 ### Tecnologias e Ferramentas
@@ -51,6 +54,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ---
 ### Projetos em destaque
 
@@ -59,6 +64,8 @@
 ### Projetos da minha graduação
 
 - (Seção ainda em construção)
+
+
 
 ---
 ### Estatísticas GitHub
@@ -78,6 +85,7 @@
 </div>
 
 
+
 ---
 ### Conecte-se comigo
 
@@ -85,13 +93,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarianaDosSantoss)
 
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 ---
-<p align="center">🚧 Perfil em constante construção.</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaDosSantoss/MarianaDosSantoss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
+---
+<p align="center">Perfil em constante construção.</p>
